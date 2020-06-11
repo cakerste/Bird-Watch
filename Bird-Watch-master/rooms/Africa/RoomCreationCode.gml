@@ -1,0 +1,16 @@
+global.birdName = "";
+global.bird1_text = "African Pygmy Kingfisher";
+global.bird2_text = "Bateleur Eagle";
+global.bird3_text = "Cape Parrot";
+global.bird4_text = "Cape Sugarbird";
+global.bird5_text = "Martial Eagle";
+global.bird1_sound = snd_Kingfisher;
+global.bird2_sound = snd_Bateleur;
+global.bird3_sound = snd_capeparrot;
+global.bird4_sound = snd_sugarbird;
+global.bird5_sound = snd_martialeagle;
+bird1.sprite_index = kingfisher;
+bird2.sprite_index = bateleur;
+bird3.sprite_index = capeparrot;
+bird4.sprite_index = sugarbird;
+bird5.sprite_index = martialeagle;

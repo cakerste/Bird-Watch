@@ -1,0 +1,17 @@
+audio_stop_all();
+global.birdName = "";
+global.bird1_text = "Mourning Warbler";
+global.bird2_text = "Boreal Chickadee";
+global.bird3_text = "Grey Jay";
+global.bird4_text = "White-Throated Sparrow";
+global.bird5_text = "Great Grey Owl";
+global.bird1_sound = snd_Warbler;
+global.bird2_sound = snd_Chicakdee;
+global.bird3_sound = snd_GreyJay;
+global.bird4_sound = snd_WTS;
+global.bird5_sound = snd_GreyOwl;
+bird1.sprite_index = MourningWarbler;
+bird2.sprite_index = BorealChickadee;
+bird3.sprite_index = sprite13;
+bird4.sprite_index = FSWhiteThroated;
+bird5.sprite_index = sprite12;

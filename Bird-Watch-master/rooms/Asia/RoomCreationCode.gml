@@ -1,0 +1,16 @@
+global.birdName = "";
+global.bird1_text = "Asian Koel";
+global.bird2_text = "Hornbill";
+global.bird3_text = "Indian Paradise Flycatcher";
+global.bird4_text = "Indian Roller";
+global.bird5_text = "Pallas Fish Eagle";
+global.bird1_sound = snd_Koel;
+global.bird2_sound = snd_Hornbill;
+global.bird3_sound = snd_Flycatcher;
+global.bird4_sound = snd_Roller;
+global.bird5_sound = snd_Fisheagle;
+bird1.sprite_index = asianKoel;
+bird2.sprite_index = hornbill;
+bird3.sprite_index = flycatcher;
+bird4.sprite_index = roller;
+bird5.sprite_index = fisheagle;

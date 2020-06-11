@@ -1,0 +1,16 @@
+global.birdName = "";
+global.bird1_text = "Emu";
+global.bird2_text = "Laughing Kookaburra";
+global.bird3_text = "Masked Lapwing";
+global.bird4_text = "Rainbow Lorikeet";
+global.bird5_text = "Tawney Frogmouth";
+global.bird1_sound = snd_Emu;
+global.bird2_sound = snd_Kook;
+global.bird3_sound = snd_Lapwing;
+global.bird4_sound = snd_Lorikeet;
+global.bird5_sound = snd_Frogmouth;
+bird1.sprite_index = emu;
+bird2.sprite_index = kookaburra;
+bird3.sprite_index = lapwing;
+bird4.sprite_index = lorikeet;
+bird5.sprite_index = frogmouth;

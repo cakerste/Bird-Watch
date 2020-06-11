@@ -1,0 +1,17 @@
+audio_stop_all();
+global.birdName = "";
+global.bird1_text = "American Crow";
+global.bird2_text = "Northern Cardinal";
+global.bird3_text = "Osprey";
+global.bird4_text = "Scarlet Tanager";
+global.bird5_text = "American Robin";
+global.bird1_sound = snd_Crow;
+global.bird2_sound = snd_Cardinal;
+global.bird3_sound = snd_Osprey;
+global.bird4_sound = snd_Tanager;
+global.bird5_sound = snd_Robin;
+bird1.sprite_index = crow;
+bird2.sprite_index = cardinal;
+bird3.sprite_index = osprey;
+bird4.sprite_index = tanager;
+bird5.sprite_index = robin;
